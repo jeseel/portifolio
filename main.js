@@ -10,7 +10,6 @@ function toMenuNav() {
         menu.style.backgroundColor = "#333";
     }
 }
-
 function setActive(buttonId) {
     var menu = document.getElementById(buttonId);
     if (menu === null) return;
