@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+    position: relative;
+}
+
+.left-side{
+    background-color: rgb(10, 10, 10);
+    
+}
+.box-logo {
+    background-color: rgb(20, 20, 20);    
+    width: 200px;
+    height: 200px;
+    border: 10px  solid white;
+    border-radius: 10px;
+    text-align: center;
+    }
+.box-logo>p {
+    /*    font-family: 'Russo One', sans-serif;*/
+    font-family: 'Glegoo', serif;
+    margin-top: -30px;
+    font-size: 10em;    
+    text-align: center;
+    color : white
+    
+}
+
+.session{
+    padding-top: 70px;
+}
